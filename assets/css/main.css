@@ -1398,6 +1398,11 @@ html, body {
   opacity: 0.6;
 }
 
+.hero-text img.LogoBig {
+  max-width: 99%;
+  max-height: 99%;
+}
+
 .hero-text p.subtitle {
   color: #307420;
   font-weight: 700;
