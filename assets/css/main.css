@@ -2083,6 +2083,18 @@ a.video-play-btn {
   overflow: hidden;
 }
 
+.abt-fg {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
 .abt-bg:after {
   position: absolute;
   left: 0;
