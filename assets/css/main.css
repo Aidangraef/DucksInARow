@@ -611,7 +611,7 @@ nav.main-menu > ul li:last-child {
 
 .site-logo {
   float: left;
-  max-width: 150px;
+  max-width: 75px;
 }
 
 ul.sub-menu li:last-child {
@@ -1401,6 +1401,7 @@ html, body {
 .hero-text img.LogoBig {
   max-width: 99%;
   max-height: 99%;
+  padding: 70px;
 }
 
 .hero-text p.subtitle {
