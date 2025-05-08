@@ -1399,8 +1399,8 @@ html, body {
 }
 
 .hero-text img.LogoBig {
-  max-width: 99%;
-  max-height: 99%;
+  max-width: 80%;
+  max-height: 80%;
   padding: 70px;
 }
 
