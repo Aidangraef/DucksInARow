@@ -427,8 +427,8 @@
 		margin-top: 0;
 	}
 	.site-logo {
-    position: absolute;
-	    z-index: 99;
+    	position: absolute;
+	    z-index: 2;
 	}
 
 	.mean-container .mean-bar {
