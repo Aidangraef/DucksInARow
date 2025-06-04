@@ -407,6 +407,10 @@
 	    font-size: 15px;
 	}
 
+	.hero-bg {
+		background-image: url(../img/middlepack_card.png);
+	}
+
 	.sticky-wrapper.is-sticky .top-header-area {
 	    position: absolute!important;
 	    background-color: transparent;
